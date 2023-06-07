@@ -6,7 +6,7 @@
 <h3 align="center">Passionate about blockchain technology and smart contract development. Dedicated to creating innovative solutions and contributing to open-source projects. Constantly learning and exploring new possibilities in the digital landscape.</h3>
 <br>
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 <p align="center"> 
   &emsp; 
