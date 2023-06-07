@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=1000&center=true&width=435&lines=Blockchain;Finance;Development" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h4 align="center">Passionate about blockchain technology and smart contract development. Dedicated to creating innovative solutions and contributing to open-source projects. Constantly learning and exploring new possibilities in the digital landscape.</h4>
+<h3 align="center">Passionate about blockchain technology and smart contract development. Dedicated to creating innovative solutions and contributing to open-source projects. Constantly learning and exploring new possibilities in the digital landscape.</h3>
 <br>
 
 ## 🛠️ Skills & Tools
