@@ -21,9 +21,7 @@
   <a href="https://react.dev/" target="_blank"> 
      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    &emsp;
-  <a href="https://nextjs.org/" target="_blank"> 
-     <img alt="Next JS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-       &emsp;
+	  </a>
   <a href="https://graphql.org/" target="_blank"> 
      <img alt="Graph QL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
    </a>
