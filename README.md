@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lukas</h1>
+s<h1 align="center">Hi, I'm Lukas</h1>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=1777&pause=1000&color=3581F7&vCenter=true&center=true&color=3581F7&width=435&lines=Blockchain;Finance;Development" alt="Typing SVG"/>
 </p>
@@ -30,5 +30,8 @@
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       &emsp;
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+	 &emsp;
+ <img alt="CSS" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=ffffff"/>
+	   
 &emsp; 
 </p>
