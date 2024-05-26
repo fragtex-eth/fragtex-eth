@@ -14,6 +14,8 @@
   &emsp;
     <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
     &emsp;
+	<img alt="Rust" src="https://img.shields.io/badge/Rust-AA2704?style=for-the-badge&logo=rust&logoColor=white">
+    &emsp;
      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    &emsp;
      <img alt="Graph QL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
