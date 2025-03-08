@@ -6,6 +6,7 @@
 <h4 align="center">Passionate about software development and blockchain technology. Dedicated to creating innovative solutions and contributing to open-source projects. Constantly learning and exploring new possibilities in the digital landscape.</h4>
 <br>
 
+    
 ## Skills & Tools
 
 <p align="center"> 
@@ -34,6 +35,9 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 	 &emsp;
  <img alt="CSS" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=ffffff"/>
-	   
 &emsp; 
 </p>
+
+ <a href="https://monkeytype.com/profile/Fragtex" align="center">
+        <img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_REPOSITORY/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+    </a>
