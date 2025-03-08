@@ -38,6 +38,3 @@
 &emsp; 
 </p>
 
- <a href="https://monkeytype.com/profile/Fragtex" align="center">
-        <img src="https://raw.githubusercontent.com/fragtex-eth/fragtex-eth/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-    </a>
